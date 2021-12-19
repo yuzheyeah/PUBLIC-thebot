@@ -6,38 +6,38 @@
         console.log(`${client.user.tag} OK兄弟們 全體目光向我看齊！`) ;
     }) ;
 	
-    client.on('message',msg=>{
+client.on('message',msg=>{
 			if(msg.content.startsWith("/簽")){
-        var rnd = Random(10,1);
-  switch(rnd){
-    case 1:msg.reply("你晚上要去做豬底迪了");break;
-    case 2:msg.reply("你起床準備做牛郎就對了");break;
-    case 3:msg.reply("040");break;
-	case 4:msg.reply("你喇媽的勒");break;
-    case 5:msg.reply("好了啦~!");break;
-    case 6:msg.reply("阿是不會按通話喔");break;
-		  case 7:msg.reply("你雞雞可以再小一點");break;
-		  case 8:msg.reply("牙籤閉嘴");break;
-		  case 9:msg.reply("阿是乾我屁事");break;
-		  case 10:msg.reply("開幹!");break;
+       var rnd = Random(10,1);
+switch(rnd){
+case 1:msg.reply("你晚上要去做豬底迪了");break;
+case 2:msg.reply("你起床準備做牛郎就對了");break;
+case 3:msg.reply("040");break;
+case 4:msg.reply("你喇媽的勒");break;
+case 5:msg.reply("好了啦~!");break;
+case 6:msg.reply("阿是不會按通話喔");break;
+case 7:msg.reply("你雞雞可以再小一點");break; 
+case 8:msg.reply("牙籤閉嘴");break;
+case 9:msg.reply("阿是乾我屁事");break;
+case 10:msg.reply("開幹!");break;
   }
 	}
 	}) ;
 
- client.on('message',msg=>{
+client.on('message',msg=>{
 			if(msg.content.startsWith("/下")){
         var rnd = Random(10,1);
-  switch(rnd){
-    case 1:msg.reply("踏馬的豬底迪");break;
-    case 2:msg.reply("你是在哭幾點");break;
-	  case 3:msg.reply("040");break;
-	case 4:msg.reply("芒果啦幹");break;
-    case 5:msg.reply("札記有的寫");break;
-    case 6:msg.reply("我能不能也下線");break;
-		    case 7:msg.reply("你再熬夜一次給我試試看");break;
-		  case 8:msg.reply("下屁喔");break;
-		  case 9:msg.reply("今天札記很多元");break;
-		  case 10:msg.reply("Fuck u friend啦");break;
+switch(rnd){
+case 1:msg.reply("踏馬的豬底迪");break;
+case 2:msg.reply("你是在哭幾點");break;
+case 3:msg.reply("040");break;
+case 4:msg.reply("芒果啦幹");break;
+case 5:msg.reply("札記有的寫");break;
+case 6:msg.reply("我能不能也下線");break;
+case 7:msg.reply("你再熬夜一次給我試試看");break;
+case 8:msg.reply("下屁喔");break;
+case 9:msg.reply("今天札記很多元");break;
+case 10:msg.reply("Fuck u friend啦");break;
   }
 	}
 	}) ;
@@ -46,8 +46,8 @@
 	
    client.on('message',msg=>{
 	   if(msg.content.startsWith("/nothing")){
-		   var rnd = Random(60,1);
-  switch(rnd){
+      var rnd = Random(60,1);
+switch(rnd){
     case 1:msg.reply("就是賤! 你賤到骨子裡啊");break;
     case 2:msg.reply("https://imgur.com/NQinKJB");break;
     case 3:msg.reply("我的很大 你要忍一下~~");break;
