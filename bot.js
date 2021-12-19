@@ -46,7 +46,7 @@ case 10:msg.reply("Fuck u friend啦");break;
 	
    client.on('message',msg=>{
 	   if(msg.content.startsWith("/nothing")){
-      var rnd = Random(60,1);
+      var rnd = Random(70,1);
 switch(rnd){
     case 1:msg.reply("就是賤! 你賤到骨子裡啊");break;
     case 2:msg.reply("https://imgur.com/NQinKJB");break;
@@ -108,6 +108,17 @@ switch(rnd){
 		  case 58:msg.reply("操你媽hypixel的老二一定斷掉");break;
 	          case 59:msg.reply("你是忘記了....還是你就是個腦殘😅");break;
 		  case 60:msg.reply("安安的人都差不多了");break;
+		case 61:msg.reply("");break;
+		case 62:msg.reply("了");break;
+		case 63:msg.reply("");break;
+		case 64:msg.reply("");break;
+		case 65:msg.reply("");break;
+		case 66:msg.reply("");break;
+		case 67:msg.reply("");break;
+		case 68:msg.reply("");break;
+		case 69:msg.reply("");break;
+		case 70:msg.reply("");break;
+		
   }
 }
     }) ;
