@@ -64,7 +64,7 @@ switch(rnd){
 	  case 14:msg.reply("你不要過來啊啊啊");break;
 	case 15:msg.reply("典中典之無聊打廢物指令");break;
 	case 16:msg.reply("差不多得了😅");break;
-	case 17:msg.reply("你現在RTC給我重開喔");break;
+	case 17:msg.reply("3D列印真的很痛");break;
 	  case 18:msg.reply("切磋啦 切磋啦 雞雞歪歪的 雞雞歪歪的");break;
 	case 19:msg.reply("那天我們從未知道拖著藍色垃圾桶的名字");break;
 		  case 20:msg.reply("ㄟ媽 有人打指令幫我回一下");break;
@@ -108,7 +108,7 @@ switch(rnd){
 		  case 58:msg.reply("操你媽hypixel的老二一定斷掉");break;
 	          case 59:msg.reply("你是忘記了....還是你就是個腦殘😅");break;
 		  case 60:msg.reply("安安的人都差不多了");break;
-		case 61:msg.reply("");break;
+		case 61:msg.reply("ㄖㄨㄚˋ嬰兒");break;
 		case 62:msg.reply("了");break;
 		case 63:msg.reply("");break;
 		case 64:msg.reply("");break;
